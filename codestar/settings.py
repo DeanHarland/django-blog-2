@@ -30,7 +30,7 @@ if os.environ.get("DEVELOPMENT") == "True":
     DEBUG = True
 
 
-ALLOWED_HOSTS = ['.heroku.com']
+ALLOWED_HOSTS = ['.herokuapp.com']
 
 
 # Application definition
